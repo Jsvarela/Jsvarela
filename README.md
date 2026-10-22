@@ -11,7 +11,8 @@ I'm interested in data structures, graphs and game development.*
 - **[POST-TRUTH](https://github.com/Jsvarela/POST-TRUTH)** — Videojuego educativo en Python + Pygame sobre desinformación en redes: árbol n-ario de decisiones y grafos con BFS y Dijkstra, con pruebas automáticas.
   *Educational Python + Pygame game about misinformation, built on an n-ary decision tree and graphs (BFS, Dijkstra), with automated tests.*
 - **[PiggyBank](https://github.com/Jsvarela/PiggyBank)** — PWA de finanzas personales con FastAPI, React y PostgreSQL con Row Level Security.
-  *Personal finance PWA built with FastAPI, React and PostgreSQL with Row Level Security.*
+  *Personal finance PWA built with FastAPI, React and PostgreSQL with Row Level Security.*- **[Naikan](https://github.com/Scastanedad/Naikan)** — Roguelike 2D en Python + Pygame sobre el cyberbullying, hecho en equipo de cinco. Mi parte: diseño de niveles y mundos y la escena de galería.
+  *2D roguelike in Python + Pygame about cyberbullying, built by a team of five. My part: level and world design and the gallery scene.*
 
 ## Habilidades / Skills
 
